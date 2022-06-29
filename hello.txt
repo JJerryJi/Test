@@ -1,17 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Hello Jerry! Welcome to Beak Tech Team
-=======
 Hello Jerry! Welcome to Beak Tech Team
->>>>>>> Test
-=======
-"Welcome to the Beck Tech Team!"
 
-def xxx():
-  pass
-
-"welcome"
-
-def foo():
-  print(pass, 123, 456)
->>>>>>> 088fb54a6bfcb1e68c0306221cd198658f84642d
