@@ -4,3 +4,6 @@
 
 def foo():
   print(pass, 123, 456)
+
+def yyy():
+  pass
