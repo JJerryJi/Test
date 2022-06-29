@@ -10,3 +10,6 @@ def foo():
 
 def yyy():
   pass
+
+def add(a, b):
+  return a + b
