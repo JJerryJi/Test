@@ -3,4 +3,4 @@
 "welcome"
 
 def foo():
-  print(pass)
+  print(pass, 567)
