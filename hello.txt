@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Hello Jerry! Welcome to Beak Tech Team
-=======
 Hello Jerry! Welcome to Beak Tech Team
->>>>>>> Test
+
