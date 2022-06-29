@@ -1,5 +1,8 @@
 "Welcome to the Beck Tech Team!"
 
+def xxx():
+  pass
+
 "welcome"
 
 def foo():
